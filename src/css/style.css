@@ -1,0 +1,49 @@
+body {
+    background-color: #343a40; /* Cor de fundo escura */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .container-custom {
+    background-color: white; /* Cor de fundo branca */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 350px; /* Defina a largura do contêiner conforme necessário */
+  }
+
+  .welcome-area {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+
+
+  .btn-custom .hover {
+    background-color: #007bff;
+  }
+
+
+  .container-custom {
+    background-color: white; /* Cor de fundo branca */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 350px; /* Defina a largura do contêiner conforme necessário */
+  }
+
+
+.containerListar {
+  background-color: white; /* Cor de fundo branca */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 70%; /* Defina a largura do contêiner conforme necessário */
+  }
